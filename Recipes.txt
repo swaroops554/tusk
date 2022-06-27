@@ -3,8 +3,13 @@ Welcome
 Java
 Python
 c++
+Pascal
+Fortran
 
 
 Thank You
+
+Done with my changes
+
 
 Final Copy
